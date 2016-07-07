@@ -1,0 +1,24 @@
+{
+  "name": "cli-babel-node",
+  "version": "1.0.0",
+  "description": "Run es6 from the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babel-node": "babel-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inside/cli-babel-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inside/cli-babel-node/issues"
+  },
+  "homepage": "https://github.com/inside/cli-babel-node#readme",
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-preset-es2015": "^6.9.0"
+  }
+}
